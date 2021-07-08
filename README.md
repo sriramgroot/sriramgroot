@@ -1,32 +1,47 @@
-# 👋&nbsp;<b>Hi, I'm Sriram</b>
+# <b>Hey, 👋&nbsp; I'm Sriram</b>
 <br>
+<img align="right" src="https://github.com/sriramgroot/sriramgroot/blob/face-emoji/github-overview-profile.png" width="150"/>
 <p align="left">
-  <p>Hey there, welcome!</br>
-  I'm Sriram Karthick, Senior Frontend Engineer from 🇮🇳 <b>India</b>.</p>
+  <p>Welcome!!!</br>
+  I'm Sriram Karthick, Frontend Developer from 🇮🇳 <b>India</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#764ABC" href="https://angular.io/" target="_blank"><u>Angular</u></a> and best practices towards UI/UX.
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#764ABC" href="https://angular.io/" target="_blank"><u>Angular</u></a> and best practices towards UI/UX.\
+  🔭 &nbsp;I'm currently working as <strong>Senior Frontend Engineer</strong> @ <a href="https://www.grootan.com/" target="_blank">Grootan Technologies</a>.\
+  👯 &nbsp;I'm good @ <a href="https://reactjs.org/" target="_blank">Reactjs</a>, <a href="https://nodejs.org/en/" target="_blank">Nodejs</a>, <a href="https://graphql.org/" target="_blank">GraphQL</a> and also UI/UX Design
 </p>
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
-<p>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-nodejs-43853d?style=flat-square&logo=javascript&logoColor=ffffff" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
- 
-</p>
 
-<h2>🌎 &nbsp;Find me here</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vue.js)
+![Angular](https://img.shields.io/badge/-angularjs-black?style=flat-square&logo=angular)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-express-black?style=flat-square&logo=express)
+![Graphql](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Gatsbyjs](https://img.shields.io/badge/-Gatsbyjs-black?style=flat-square&logo=gatsby)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual%20studio%20code)
+
+<h2>💻 &nbsp;Things I Design with</h2>
+
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe%20photoshop)
+![Adobe XD](https://img.shields.io/badge/-XD-black?style=flat-square&logo=adobe%20xd)
+
+<h2>🌎 &nbsp;Catch me here</h2>
 <p>
   <a href="https://github.com/sriramgroot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/sriramkarthick/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
