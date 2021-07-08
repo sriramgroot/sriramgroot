@@ -35,8 +35,10 @@
 </p>
 
 <h2>📈 &nbsp;My Github Stats</h2>
-<span align="left">
 
-![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramgroot&show_icons=true&hide_border=true&bg_color=040d21&title_color=165df5&icon_color=165df5&text_color=FFFFFF)
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=sriramgroot&hide_border=true&theme=black-ice&background=040d21&stroke=165df5)
-</span>
+<p align="left">
+<a href="https://github.com/sriramgroot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sriramgroot&show_icons=true&hide_border=true&bg_color=040d21&title_color=165df5&icon_color=165df5&text_color=FFFFFF"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=sriramgroot&hide_border=true&theme=black-ice&background=040d21&stroke=165df5"/>
+</a>
+</p>
