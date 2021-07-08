@@ -1,11 +1,14 @@
-# 👋&nbsp;<b>Hi, I'm Sriram</b>
+# <b>Hey, 👋&nbsp; I'm Sriram</b>
 <br>
+<img align="right" src="https://github.com/sriramgroot/sriramgroot/blob/face-emoji/github-overview-profile.png" width="150"/>
 <p align="left">
-  <p>Hey there, welcome!</br>
-  I'm Sriram Karthick, Senior Frontend Engineer from 🇮🇳 <b>India</b>.</p>
+  <p>Welcome!!!</br>
+  I'm Sriram Karthick, Frontend Developer from 🇮🇳 <b>India</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#764ABC" href="https://angular.io/" target="_blank"><u>Angular</u></a> and best practices towards UI/UX.
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#764ABC" href="https://angular.io/" target="_blank"><u>Angular</u></a> and best practices towards UI/UX.\
+  🔭 &nbsp;I'm currently working as <strong>Senior Frontend Engineer</strong> @ <a href="https://www.grootan.com/" target="_blank">Grootan Technologies</a>.\
+  👯 &nbsp;I'm good @ <a href="https://reactjs.org/" target="_blank">Reactjs</a>, <a href="https://nodejs.org/en/" target="_blank">Nodejs</a>, <a href="https://graphql.org/" target="_blank">GraphQL</a> and also UI/UX Design
 </p>
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
