@@ -32,6 +32,14 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual%20studio%20code)
+
+<h2>💻 &nbsp;Things I Design with</h2>
+
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe%20photoshop)
+![Adobe XD](https://img.shields.io/badge/-XD-black?style=flat-square&logo=adobe%20xd)
 
 <h2>🌎 &nbsp;Catch me here</h2>
 <p>
