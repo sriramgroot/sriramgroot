@@ -1,6 +1,6 @@
 # <b>Hey, 👋&nbsp; I'm Sriram</b>
 <br>
-<img align="right" src="https://github.com/sriramgroot/sriramgroot/blob/face-emoji/github-overview-profile.png" width="150"/>
+<img align="right" src="https://github.com/sriramgroot/sriramgroot/blob/main/github-overview-profile.png" width="150"/>
 <p align="left">
   <p>Welcome!!!</br>
   I'm Sriram Karthick, Frontend Developer from 🇮🇳 <b>India</b>.</p>
